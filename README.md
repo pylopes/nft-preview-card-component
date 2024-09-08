@@ -10,7 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: [NFT preview card component solution]()
+- Live Site URL: [NFT preview card component solution](https://pylopes.github.io/nft-preview-card-component/)
 
 ### Built with
 
